@@ -34,8 +34,6 @@ currently_learning:
   - Advanced Machine Learning & NLP
   - Cloud Architecture (AWS/Azure/GCP)
   - System Design & Scalable Applications
-
-fun_fact: "I debug with print statements and I'm not ashamed 😄"
 ```
 
 ---
