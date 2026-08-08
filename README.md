@@ -136,16 +136,6 @@ currently_learning:
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanishasamanta14&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Tanisha's%20Contribution%20Graph" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
