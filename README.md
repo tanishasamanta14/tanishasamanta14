@@ -106,13 +106,31 @@ currently_learning:
 
 ---
 
-## 🔥 Commit Streak
+## 🔥 Commit Streak & Activity
 
 <div align="center">
 
+<!-- Streak Stats (reliable provider) -->
 <a href="https://git.io/streak-stats">
-  <img width="70%" src="https://nirzak-streak-stats.vercel.app?user=tanishasamanta14&theme=tokyonight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=tanishasamanta14&theme=tokyonight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
 </a>
+
+<br><br>
+
+<!-- 3D Contribution Calendar -->
+<img width="100%" src="https://ghchart.rshah.org/6C63FF/tanishasamanta14" alt="Contribution Graph" />
+
+<br><br>
+
+<!-- Profile Summary Cards - Commits per hour & Productive time -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishasamanta14&theme=tokyonight" alt="Profile Details" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanishasamanta14&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+
+<br>
+
+<!-- Commits & Repos per language -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishasamanta14&theme=tokyonight" alt="Repos Per Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanishasamanta14&theme=tokyonight" alt="Most Commit Language" />
 
 </div>
 
