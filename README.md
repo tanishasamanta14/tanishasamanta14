@@ -45,7 +45,6 @@ fun_fact: "I debug with print statements and I'm not ashamed 😄"
 <div align="center">
 
 <a href="https://linkedin.com/in/tanisha-samanta-6914b233b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/_secret.life_of_tani"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:tanishasamanta565@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://github.com/tanishasamanta14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
@@ -109,23 +108,12 @@ fun_fact: "I debug with print statements and I'm not ashamed 😄"
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Commit Streak
 
 <div align="center">
 
-<!-- Streak Stats - The MAIN attraction -->
 <a href="https://git.io/streak-stats">
   <img width="70%" src="https://nirzak-streak-stats.vercel.app?user=tanishasamanta14&theme=tokyonight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
-</a>
-
-<br><br>
-
-<!-- Stats Cards Side by Side -->
-<a href="https://github.com/tanishasamanta14">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishasamanta14&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&icon_color=6C63FF&title_color=6C63FF&ring_color=6C63FF" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/tanishasamanta14">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishasamanta14&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&layout=compact&title_color=6C63FF&langs_count=8" alt="Top Languages" />
 </a>
 
 </div>
@@ -137,28 +125,6 @@ fun_fact: "I debug with print statements and I'm not ashamed 😄"
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanishasamanta14&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Tanisha's%20Contribution%20Graph" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=tanishasamanta14&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/tanishasamanta14/student_grade_predictor_project">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanishasamanta14&repo=student_grade_predictor_project&theme=tokyonight&hide_border=true&border_radius=15&title_color=6C63FF&icon_color=FF6B6B" alt="Student Grade Predictor" />
-</a>
 
 </div>
 
