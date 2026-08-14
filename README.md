@@ -106,7 +106,19 @@ currently_learning:
 
 ---
 
-## 🔥 Commit Streak & Activity
+## 🔥 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/tanishasamanta14/student_grade_predictor_project">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanishasamanta14&repo=student_grade_predictor_project&theme=tokyonight&hide_border=true&border_radius=15&title_color=6C63FF&icon_color=FF6B6B" alt="Student Grade Predictor" />
+</a>
+
+</div>
+
+---
+
+## 📈 Commit Streak & Activity
 
 <div align="center">
 
